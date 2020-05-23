@@ -22,3 +22,9 @@
 # import math
 # a, b, h, m = [int(_) for _ in input().split()]
 # print(math.sqrt(b ** 2 - 2 * a * b * math.cos(math.radians(abs(30*h+m/2 - 6*m))) + a ** 2))
+
+#D
+# n, m = [int(_) for in input().split()]
+n = 9
+li = [[] for i in range(n)]
+print(li)
