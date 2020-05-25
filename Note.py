@@ -1,4 +1,4 @@
-# Python の内包表記
+# *+*+* Python の内包表記 *+*+*
 #たとえば，
 ans = []
 for i in range(10):
